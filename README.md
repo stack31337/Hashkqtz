@@ -1,6 +1,8 @@
 <h1 align="center">Hi,👋 I'm Hashkatz!</h1>
 <h3 align="center">I am just developing myself and I share my codes.</h3>
-![MasterHead](https://res.cloudinary.com/de4rvmslk/image/upload/w_2000/f_auto,q_auto//img/python-vs-c-_cover-duz-y-2x.jpg)
+<div>
+  ![MasterHead](https://res.cloudinary.com/de4rvmslk/image/upload/w_2000/f_auto,q_auto//img/python-vs-c-_cover-duz-y-2x.jpg)
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/hashkatzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hashkatzz" height="30" width="40" /></a>
