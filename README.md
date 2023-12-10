@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/de4rvmslk/image/upload/w_2000/f_auto,q_auto//img/python-vs-c-_cover-duz-y-2x.jpg)
+![MasterHead](https://res.cloudinary.com/de4rvmslk/image/upload/w_2000/f_auto,q_auto//img/python-vs-c-_cover-duz-y-2x.jpg)
 
 <h1 align="center">Hi,👋 I'm Hashkatz!</h1>
 <h3 align="center">I am just developing myself and I share my codes.</h3>
