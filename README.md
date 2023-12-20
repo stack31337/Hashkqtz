@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi, I'm Hashkatz!</h1>
 <h3 align="center">I am just developing myself and I share my codes.</h3>
+<h3 align="center">If you have any questions:</h3>
+<h3 align="center">Discord: katz0007</h3>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
