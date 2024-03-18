@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/de4rvmslk/image/upload/w_2000/f_auto,q_auto//img/python-vs-c-_cover-duz-y-2x.jpg)
+![MasterHead](https://imgur.com/a/uU15Dt3)
 
 
 <h1 align="center">Hi, I'm Stack</h1>
