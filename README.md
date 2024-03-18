@@ -1,4 +1,4 @@
-![MasterHead](https://imgur.com/a/uU15Dt3)
+![MasterHead](https://i.imgur.com/xFFgOis.jpg)
 
 
 <h1 align="center">Hi, I'm Stack</h1>
