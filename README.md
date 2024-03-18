@@ -1,7 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=stack+)](https://git.io/typing-svg)
 ![MasterHead](https://res.cloudinary.com/de4rvmslk/image/upload/w_2000/f_auto,q_auto//img/python-vs-c-_cover-duz-y-2x.jpg)
 
 
-<h1 align="center">Hi, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=stack+)](https://git.io/typing-svg)</h1>
+<h1 align="center">Hi, I'm Stack</h1>
 <h3 align="center">I am just developing myself and I share my codes.</h3>
 <h3 align="center">If you have any questions:</h3>
 <h3 align="center">Discord: stack91</h3>
