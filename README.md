@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=stack+)](https://git.io/typing-svg)
 ![MasterHead](https://res.cloudinary.com/de4rvmslk/image/upload/w_2000/f_auto,q_auto//img/python-vs-c-_cover-duz-y-2x.jpg)
 
 
