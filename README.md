@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Stack</h1>
 <h3 align="center">I am just developing myself and I share my codes.</h3>
 <h3 align="center">If you have any questions:</h3>
-<h3 align="center"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-discord-3691244-3073764.png?f=webp" alt="Discord" width="30" height="20"> Discord: stack91</h3>
+<h3 align="center"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-discord-3691244-3073764.png?f=webp" alt="Discord" width="20" height="20"> Discord: stack91</h3>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
