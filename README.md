@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/UZI2Emo.png)
+![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fhnpxargqfan71.jpg)
 
 
 <h1 align="center">Hi, I'm Stack</h1>
