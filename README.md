@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Stack</h1>
 <h3 align="center">I am just developing myself and I share my codes.</h3>
 <h3 align="center">If you have any questions:</h3>
-<h3 align="center"> <img src="https://dcbadge.limes.pink/api/shield/1213110207618617405" alt="Discord"></h3>
+<h3 align="center"> <img src="https://dcbadge.limes.pink/api/shield/1213110207618617405?style=flat" alt="Discord"></h3>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
