@@ -1,4 +1,4 @@
-![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fhnpxargqfan71.jpg)
+![MasterHead](https://i.imgur.com/ijuRGMA.jpeg)
 
 
 <h1 align="center">Hi, I'm Stack</h1>
